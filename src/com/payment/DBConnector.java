@@ -6,9 +6,9 @@ import java.sql.DriverManager;
 public class DBConnector {
 
 	//declaring variables and initializing them 
-	private static String url="jdbc:mysql://localhost:3306/sparepart2";
+	private static String url="jdbc:mysql://localhost:3306/paymentdb";
 	private static String user="root";
-	private static String password="Champ123@";
+	private static String password="12345678";
 	
 	private static Connection con;//variable that returns the connection
 	
