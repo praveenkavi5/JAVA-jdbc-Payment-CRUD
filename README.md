@@ -85,7 +85,7 @@ http://localhost:8080/JAVA-jdbc-Payment-CRUD-main/
 
 ## 📷 Screenshots
 
-> *(Include screenshots of the UI here if needed.)*
+> 
 
 ## 📂 License
 
